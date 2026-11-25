@@ -48,8 +48,4 @@ module "vpc" {
 
 ## Versionamento
 
-| Mudança | Tag |
-|---|---|
-| Quebra a interface de um módulo: variável removida ou renomeada, recurso recriado | maior |
-| Acrescenta variável opcional ou módulo novo | menor |
-| Correção sem efeito na interface | patch |
+O esquema de numeração das tags desta org ainda está em aberto: ver [ADR 0002](https://github.com/fiap-hackathon-dclt/.github/blob/main/docs/decisoes/0002-base-do-togglemaster-copiada-para-a-org.md).
